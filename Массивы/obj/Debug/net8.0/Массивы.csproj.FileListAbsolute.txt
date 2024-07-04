@@ -1,0 +1,14 @@
+E:\Projects\Массивы\bin\Debug\net8.0\Массивы.exe
+E:\Projects\Массивы\bin\Debug\net8.0\Массивы.deps.json
+E:\Projects\Массивы\bin\Debug\net8.0\Массивы.runtimeconfig.json
+E:\Projects\Массивы\bin\Debug\net8.0\Массивы.dll
+E:\Projects\Массивы\bin\Debug\net8.0\Массивы.pdb
+E:\Projects\Массивы\obj\Debug\net8.0\Массивы.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Массивы\obj\Debug\net8.0\Массивы.AssemblyInfoInputs.cache
+E:\Projects\Массивы\obj\Debug\net8.0\Массивы.AssemblyInfo.cs
+E:\Projects\Массивы\obj\Debug\net8.0\Массивы.csproj.CoreCompileInputs.cache
+E:\Projects\Массивы\obj\Debug\net8.0\Массивы.dll
+E:\Projects\Массивы\obj\Debug\net8.0\refint\Массивы.dll
+E:\Projects\Массивы\obj\Debug\net8.0\Массивы.pdb
+E:\Projects\Массивы\obj\Debug\net8.0\Массивы.genruntimeconfig.cache
+E:\Projects\Массивы\obj\Debug\net8.0\ref\Массивы.dll
